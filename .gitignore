@@ -1,8 +1,7 @@
+/node_modules/
+/dist/
+/.vscode/
 .DS_Store
-node_modules
-/build
-/package
-.env
-.env.*
+replit.nix
 .replit
 .upm
